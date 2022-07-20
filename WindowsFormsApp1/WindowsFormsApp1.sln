@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{33B36B51-9F10-436B-B6F7-544B52394DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B36B51-9F10-436B-B6F7-544B52394DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B36B51-9F10-436B-B6F7-544B52394DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B36B51-9F10-436B-B6F7-544B52394DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B36B51-9F10-436B-B6F7-544B52394DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A745D9BD-EEAC-4482-B295-599DAD5A7AB8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://192.168.4.208:8080/tfs/ipm
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WindowsFormsApp1\\WindowsFormsApp1.csproj
+		SccProjectName1 = WindowsFormsApp1
+		SccLocalPath1 = WindowsFormsApp1
+	EndGlobalSection
+EndGlobal
